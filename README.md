@@ -56,5 +56,5 @@ The aim is to understand customer sentiment, identify key trends, and help make 
 - `requirements.txt`
 - `README.md` (this file)
 
-✨ Thank you for exploring this project!
-Feel free to fork ⭐, share feedback, and connect with me on LinkedIn
+✨ **Thank you for exploring this project!**  
+Feel free to fork ⭐, share feedback, and connect with me on [LinkedIn](https://www.linkedin.com/in/vaishnavi-chakraborty-85b949292)
