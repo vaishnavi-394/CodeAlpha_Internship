@@ -1,3 +1,8 @@
+# 📊 Sentiment Analysis on Amazon Alexa Reviews
+*CodeAlpha Internship – Data Analytics Task 4*
+
+This project builds a machine learning model to classify Amazon Alexa customer reviews as **positive** or **negative** using Natural Language Processing (NLP).  
+The aim is to understand customer sentiment, identify key trends, and help make data-driven product decisions.
 
 ---
 
@@ -51,4 +56,5 @@
 - `requirements.txt`
 - `README.md` (this file)
 
-
+✨ Thank you for exploring this project!
+Feel free to fork ⭐, share feedback, and connect with me on LinkedIn
