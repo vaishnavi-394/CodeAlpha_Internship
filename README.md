@@ -151,8 +151,7 @@ The dataset contains 140,000+ restaurant listings from Swiggy with the following
 - (Optional) `requirements.txt` – Libraries used
 
 ---
-✨ **Thank you for exploring this project!**  
+
+✨ **Thank you for exploring these projects!**  
 Feel free to fork ⭐, share feedback, and connect with me on [LinkedIn](https://www.linkedin.com/in/vaishnavi-chakraborty-85b949292)
-
-
 
